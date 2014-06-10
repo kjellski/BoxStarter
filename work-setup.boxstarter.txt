@@ -1,13 +1,26 @@
 Set-ExplorerOptions -showHidenFilesFoldersDrives -showFileExtensions
 
-cinst 7zip
-cinst console-devel
-cinst sublimetext3
-cinst keepass
-cinst vlc
+# communication
+cinst skype
 cinst Teamspeak3
+
+# media
 cinst Firefox
+cinst dropbox 
+cinst spotify
+cinst vlc
+
+# misc tools
+cinst 7zip
+cinst wincdemu 
+cinst console-devel
+cinst rdcman
+
+# security
+cinst keepass
+cinst putty 
+
+# development
+cinst sublimetext3
 cinst SourceTree 
 cinst VisualStudio2013Ultimate 
-cinst dropbox 
-cinst wincdemu 
