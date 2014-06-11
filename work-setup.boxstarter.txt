@@ -1,16 +1,26 @@
 Set-ExplorerOptions -showHidenFilesFoldersDrives -showFileExtensions
 
+# basics
+cinst DotNet3.5
+cinst DotNet4.5.1 
+cinst javaruntime
+
+# programs
+cinst Firefox
+cinst paint.net 
+cinst FoxitReader 
+
 # communication
 cinst skype
 cinst Teamspeak3
 
 # media
-cinst Firefox
 cinst dropbox 
 cinst spotify
 cinst vlc
 
-# misc tools
+# tools
+cinst ChocolateyGUI
 cinst 7zip
 cinst wincdemu 
 cinst console-devel
@@ -24,3 +34,4 @@ cinst putty
 cinst sublimetext3
 cinst SourceTree 
 cinst VisualStudio2013Ultimate 
+cinst sourcetreeapp
