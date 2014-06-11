@@ -25,6 +25,7 @@ cinst 7zip
 cinst wincdemu 
 cinst console-devel
 cinst rdcman
+cinst winscp
 
 # security
 cinst keepass
