@@ -34,5 +34,6 @@ cinst putty
 # development
 cinst sublimetext3
 cinst SourceTree 
-cinst VisualStudio2013Ultimate 
+cinst VisualStudio2013Ultimate -InstallArguments "/Features:'WebTools'"
 cinst sourcetreeapp
+cinst linqpad
