@@ -36,4 +36,4 @@ cinst sublimetext3
 cinst SourceTree 
 cinst VisualStudio2013Ultimate -InstallArguments "/Features:'WebTools'"
 cinst sourcetreeapp
-cinst linqpad
+cinst linqpad4
