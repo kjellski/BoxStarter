@@ -37,3 +37,5 @@ cinst SourceTree
 cinst VisualStudio2013Ultimate -InstallArguments "/Features:'WebTools'"
 cinst sourcetreeapp
 cinst linqpad4
+cinst vagrant 
+cinst openbox
