@@ -26,6 +26,7 @@ cinst wincdemu
 cinst console-devel
 cinst rdcman
 cinst winscp
+cinst teamviewer
 
 # security
 cinst keepass
