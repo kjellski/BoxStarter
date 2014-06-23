@@ -24,19 +24,24 @@ cinst ChocolateyGUI
 cinst 7zip
 cinst wincdemu 
 cinst console-devel
+
+# remoting
+cinst putty 
 cinst rdcman
 cinst winscp
 cinst teamviewer
 
+# virtualization
+cinst vagrant 
+cinst openbox
+
 # security
 cinst keepass
-cinst putty 
 
 # development
 cinst sublimetext3
 cinst SourceTree 
-cinst VisualStudio2013Ultimate -InstallArguments "/Features:'WebTools'"
-cinst sourcetreeapp
+
 cinst linqpad4
-cinst vagrant 
-cinst openbox
+cinst VisualStudio2013Ultimate -InstallArguments "/Features:'WebTools'"
+cinst NugetPackageExplorer 
