@@ -1,4 +1,4 @@
-Set-ExplorerOptions -showHidenFilesFoldersDrives -showFileExtensions
+Set-ExplorerOptions -showHidenFilesFoldersDrives -showFileExtensions -EnableShowFullPathInTitleBar
 
 # basics
 cinst DotNet3.5
@@ -13,6 +13,7 @@ cinst FoxitReader
 # communication
 cinst skype
 cinst Teamspeak3
+cinst thunderbird 
 
 # media
 cinst dropbox 
