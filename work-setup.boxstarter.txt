@@ -45,4 +45,6 @@ cinst SourceTree
 
 cinst linqpad4
 cinst VisualStudio2013Ultimate -InstallArguments "/Features:'WebTools'"
+cinst resharper
+cinst dotCover
 cinst NugetPackageExplorer 
