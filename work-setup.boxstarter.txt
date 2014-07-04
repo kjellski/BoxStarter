@@ -40,6 +40,7 @@ cinst openbox
 cinst keepass
 
 # development
+cinst nodejs.install 
 cinst sublimetext3
 cinst SourceTree 
 
