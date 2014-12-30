@@ -1,0 +1,32 @@
+# frameworks
+cinst DotNet4.5.2
+cinst javaruntime
+
+# programs
+cinst google-chrome-x64
+cinst paint.net 
+cinst FoxitReader 
+
+# communication
+cinst skype
+cinst Teamspeak3
+
+# media
+cinst dropbox 
+cinst spotify
+cinst vlc
+
+# tools
+cinst 7zip
+cinst cdburnerxp
+
+# remoting
+cinst putty 
+cinst winscp
+cinst teamviewer
+
+# security
+cinst keepass
+
+# development
+cinst sublimetext3
